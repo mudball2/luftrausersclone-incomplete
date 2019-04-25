@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C312C25F-C3FD-77ED-D5F8-B9BC99DF8F7F}") = "luftrausersclone", "Assembly-CSharp.csproj", "{3F348416-98A2-A68C-3D8D-C328B73C75B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F348416-98A2-A68C-3D8D-C328B73C75B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F348416-98A2-A68C-3D8D-C328B73C75B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F348416-98A2-A68C-3D8D-C328B73C75B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F348416-98A2-A68C-3D8D-C328B73C75B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
